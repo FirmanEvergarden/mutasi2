@@ -5,7 +5,7 @@ import chalk from 'chalk';
 import express from 'express';
 
 const credentials = [
-  { username: 'OK2307964', merchantcode: '745596917413339762307964OKCT9434CA02A4A6BB20C21BF6E86FCEB569', name: 'Elzy'}, // Elzy
+  { username: 'OK2362348', merchantcode: '779449717442591932362348OKCTCEAB6C2F70C7944A77A9F462D0CBABAA', name: 'Ridwan'}, // Elzy
   { username: 'OK2302797', merchantcode: '636099017404593512302797OKCT92E23EF79F155ACD5FCEF1F3407AE774', name: 'Canny' }, // Canny
   { username: 'OK2320842', merchantcode: '224598717422079872320842OKCT541A1B6BA772214292DAA7B103AC7AF6', name: 'Lau Store'}, // Lau Store
   { username: 'OK1666484', merchantcode: '863463217401195201666484OKCT0C35E392D85B6D4587E5D4153963E8B7', name: 'Roy' }, // 
