@@ -7,7 +7,7 @@ import express from 'express';
 const credentials = [
   { username: 'OK2362348', merchantcode: '779449717442591932362348OKCTCEAB6C2F70C7944A77A9F462D0CBABAA', name: 'Ridwan'}, // Elzy
   { username: 'OK2361626', merchantcode: '771833317439413652361626OKCT409AF42BB29805AEE8C9D0517DDBE24E', name: 'Ghofar' }, // Canny
-  { username: 'OK2320842', merchantcode: '224598717422079872320842OKCT541A1B6BA772214292DAA7B103AC7AF6', name: 'Lau Store'}, // Lau Store
+  { username: 'OK2376343', merchantcode: '355903817442636252376343OKCT637349CFD3243DCDC2CFE7B9E4B6283F', name: 'Sakura'}, // Lau Store
   { username: 'OK1666484', merchantcode: '863463217401195201666484OKCT0C35E392D85B6D4587E5D4153963E8B7', name: 'Roy' }, // 
   { username: 'OK2246540', merchantcode: '669040117377193032246540OKCTEC2622AB8B400DEDD09F773150DAF3A8' },
   { username: 'user6', merchantcode: 'code6' },
