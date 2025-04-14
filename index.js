@@ -10,7 +10,7 @@ const credentials = [
   { username: 'OK2376343', merchantcode: '355903817442636252376343OKCT637349CFD3243DCDC2CFE7B9E4B6283F', name: 'Sakura'}, // Lau Store
   { username: 'OK1666484', merchantcode: '863463217401195201666484OKCT0C35E392D85B6D4587E5D4153963E8B7', name: 'Roy' }, // 
   { username: 'OK2248107', merchantcode: '471895917383232572248107OKCTA9CBDA4CE9E1E4B73E11DF8DACF26809', name: 'Azumi'},
-  { username: 'user6', merchantcode: 'code6' },
+  { username: 'OK2246540', merchantcode: '669040117377193032246540OKCTEC2622AB8B400DEDD09F773150DAF3A8', name: 'Jeci'},
 ];
 
 let currentIndex = 0;
